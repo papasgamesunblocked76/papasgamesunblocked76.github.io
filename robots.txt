@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /flipline/
+
+# Sitemap
+Sitemap: https://papasgamesunblocked76.github.io/sitemap.xml 
