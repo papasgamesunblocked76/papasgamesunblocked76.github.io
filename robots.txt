@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /_astro/
+Disallow: /flipline/
+
+# Sitemap
+Sitemap: https://papasgamesunblocked76.github.io/sitemap.xml 
